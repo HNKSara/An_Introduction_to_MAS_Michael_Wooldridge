@@ -133,13 +133,12 @@ In Isaac Asimov's popular Foundation science fiction trilogy, a character called
 - One important thing is Social aspects of agency, is ability to communicate, cooperate, and reach agreement with peers (not ability to learn, plan and solve problems – intelligent behavior)  
 
 ### Economics/Game theory
-- Game theory is mathematical theory that studies interaction among self-interested agents (economic entities in the real world)  
-- Predominant theoretical tool in use for the analysis of multi-agent systems (such as negotiation)  
-- The solution concepts like Nash equilibrium developed without view to computation. They are descriptive concepts, telling us the properties of appropriate, optimal solution without telling us how to compute a solution. The problem of computing solution is computationally very hard (NP-complete)  
-- MASs allow us to bring the tools of computer science (computational complexity theory) to bear on them.  
-- Important tool in MAS  
-- Questioning assumptions of game theory to reach conclusion  
-- Is rational agent valid or useful for understanding human or artificial agent society?  
+- game theory is a mathematical theory that studies interaction among self interested agents 
+- Game theory was largely the preserve of economists, who were interested in using it to study and understand interactions among economic entities in the real world.
+- Game theory seems to be the predominant theoretical tool in use for the analysis of multi-agent systems particularly when applied to problems such as negotiation
+- whether multiagent systems are properly viewed as a subfield of economics/game theory:
+  - many of the solution concepts like nash equilibrium developed without view to computation. They tend to be descriptive concepts, telling us the properties of appropriate, optimal solution without telling us how to compute a solution. the problem of computing a solution is often computationally very hard (NP-complete or worse). MASs allow us to bring the tools of computer science (e.g. computational complexity theory) to bear on them.
+  - Secondly, some researchers question the assumptions that game theory makes in order to reach its conclusions. In particular, debate has arisen in the multiagent systems community with respect to whether or not the notion of a rational agent, as modelled in game theory, is valid and/or useful for understanding human or artificial agent societies.
 
 ### Social science
 - Primarily concerned with understanding the behavior of human societies  
