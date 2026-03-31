@@ -54,7 +54,7 @@ The two problems are not orthogonal - for example, in order to build a society o
 
 - How can cooperation emerge in societies of self-interested agents (computational, information processing entities)?  
 - What sorts of common languages can agents use to communicate their beliefs and aspirations (strong desire), both to people and to other agents?  
-- How can self-interested agents recognize when their beliefs, goals, or actions conflict, and how can they reach agreements with one another on matters of self-interest, without resorting to conflict?  
+- How can self-interested agents recognize when their beliefs, goals, or actions conflict, and how can they reach agreements with one another on matters of self-interest, without resorting to  (to turn to or use something (usually undesirable) as a solution or last option.) conflict?  
 - How can autonomous agents coordinate their activities so as to cooperatively achieve goals?
 
 ---
