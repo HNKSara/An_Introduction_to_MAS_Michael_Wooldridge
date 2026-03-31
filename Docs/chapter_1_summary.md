@@ -1,5 +1,6 @@
 # An Introduction to Multi Agent Systems
 **Michael Wooldridge**
+**2002**
 
 ---
 
