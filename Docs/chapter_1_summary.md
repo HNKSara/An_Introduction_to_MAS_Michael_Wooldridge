@@ -4,7 +4,7 @@
 
 ---
 
-# Chapter 1: Introduction
+# Summary of chapter 1: Introduction
 
 ## Five important and continuing trends in the history of computing:
 
