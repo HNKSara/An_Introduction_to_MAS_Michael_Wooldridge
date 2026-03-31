@@ -133,7 +133,7 @@ In Isaac Asimov's popular Foundation science fiction trilogy, a character called
 - One important thing is Social aspects of agency, is ability to communicate, cooperate, and reach agreement with peers (not ability to learn, plan and solve problems – intelligent behavior)  
 
 ### Economics/Game theory
-- Mathematical theory that studies interaction among self-interested agents (economic entities in the real world)  
+- Game theory is mathematical theory that studies interaction among self-interested agents (economic entities in the real world)  
 - Predominant theoretical tool in use for the analysis of multi-agent systems (such as negotiation)  
 - The solution concepts like Nash equilibrium developed without view to computation. They are descriptive concepts, telling us the properties of appropriate, optimal solution without telling us how to compute a solution. The problem of computing solution is computationally very hard (NP-complete)  
 - MASs allow us to bring the tools of computer science (computational complexity theory) to bear on them.  
