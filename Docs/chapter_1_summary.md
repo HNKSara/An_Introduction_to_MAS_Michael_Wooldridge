@@ -141,7 +141,10 @@ In Isaac Asimov's popular Foundation science fiction trilogy, a character called
   - Secondly, some researchers question the assumptions that game theory makes in order to reach its conclusions. In particular, debate has arisen in the multiagent systems community with respect to whether or not the notion of a rational agent, as modelled in game theory, is valid and/or useful for understanding human or artificial agent societies.
 
 ### Social science
-- Primarily concerned with understanding the behavior of human societies  
-- Computational MAS provide experimental tools to model and understand human societies  
-- You can see how a particular function works in human societies and try to build the MAS in the same way  
-- Social science represents a rich repository of concepts for understanding and building MASs
+- The social sciences are primarily concerned with understanding the behavior of human societies
+- you can see how a particular function works in human societies and try to design the MAS (artificial societies)in the same way(An analogy may be drawn here with the methodology of AI, where it is quite common to study how humans achieve a particular kind of intelligent capability, and then to attempt to model this in a computer program.)
+- Despite of following explanations, social science and MAS are quite distinct disciplines.
+  - Although we can usefully draw insights and analogies from human societies,It is  hard to precisely model the behaviour of human societies, because they are dependent on so many different parameters. 
+  - Designing a multiagent system by using analogies and metaphors from human societies, it does not follow that this is going to be the best way to design a multiagent system, there are other tools that we can use equally well (such as game theory ).
+  - Computational MAS‌ provide powerful tool to model and understand human societies, so some social scientists are interested in this topic.
+  - Social science represent a rich repository of concepts for understanding and building MASs
